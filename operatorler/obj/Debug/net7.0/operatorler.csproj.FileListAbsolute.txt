@@ -1,0 +1,15 @@
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/bin/Debug/net7.0/operatorler
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/bin/Debug/net7.0/operatorler.deps.json
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/bin/Debug/net7.0/operatorler.runtimeconfig.json
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/bin/Debug/net7.0/operatorler.dll
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/bin/Debug/net7.0/operatorler.pdb
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/obj/Debug/net7.0/operatorler.csproj.AssemblyReference.cache
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/obj/Debug/net7.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/obj/Debug/net7.0/operatorler.AssemblyInfoInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/obj/Debug/net7.0/operatorler.AssemblyInfo.cs
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/obj/Debug/net7.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/obj/Debug/net7.0/operatorler.dll
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/obj/Debug/net7.0/refint/operatorler.dll
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/obj/Debug/net7.0/operatorler.pdb
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/obj/Debug/net7.0/operatorler.genruntimeconfig.cache
+/Users/idil/Development/Projects/cSharpPratikler/operatorler/obj/Debug/net7.0/ref/operatorler.dll
