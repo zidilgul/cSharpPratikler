@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/idil/Development/Projects/cSharpPratikler/veriTipleri/veriTipleri.csproj",
-      "projectName": "veriTipleri",
-      "projectPath": "/Users/idil/Development/Projects/cSharpPratikler/veriTipleri/veriTipleri.csproj",
+      "projectUniqueName": "/Users/idil/Development/Projects/cSharpPratikler/operatorler/operatorler.csproj",
+      "projectName": "operatorler",
+      "projectPath": "/Users/idil/Development/Projects/cSharpPratikler/operatorler/operatorler.csproj",
       "packagesPath": "/Users/idil/.nuget/packages/",
-      "outputPath": "/Users/idil/Development/Projects/cSharpPratikler/veriTipleri/obj/",
+      "outputPath": "/Users/idil/Development/Projects/cSharpPratikler/operatorler/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/idil/.nuget/NuGet/NuGet.Config"
