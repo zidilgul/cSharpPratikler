@@ -1,0 +1,15 @@
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/bin/Debug/net7.0/veriDonusumleri
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/bin/Debug/net7.0/veriDonusumleri.deps.json
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/bin/Debug/net7.0/veriDonusumleri.runtimeconfig.json
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/bin/Debug/net7.0/veriDonusumleri.dll
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/bin/Debug/net7.0/veriDonusumleri.pdb
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/obj/Debug/net7.0/veriDonusumleri.csproj.AssemblyReference.cache
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/obj/Debug/net7.0/veriDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/obj/Debug/net7.0/veriDonusumleri.AssemblyInfoInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/obj/Debug/net7.0/veriDonusumleri.AssemblyInfo.cs
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/obj/Debug/net7.0/veriDonusumleri.csproj.CoreCompileInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/obj/Debug/net7.0/veriDonusumleri.dll
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/obj/Debug/net7.0/refint/veriDonusumleri.dll
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/obj/Debug/net7.0/veriDonusumleri.pdb
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/obj/Debug/net7.0/veriDonusumleri.genruntimeconfig.cache
+/Users/idil/Development/Projects/cSharpPratikler/veriDonusumleri/obj/Debug/net7.0/ref/veriDonusumleri.dll
