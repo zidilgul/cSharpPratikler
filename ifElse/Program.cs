@@ -12,5 +12,9 @@
                 {
                         System.Console.WriteLine("İyi sabahlar");
                 }
+
+                //ternary if
+                string mesaj = time > 18 ? "iyi geceler" : "iyi günler";
+                System.Console.WriteLine(mesaj);
         }
 }
