@@ -1,0 +1,15 @@
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/bin/Debug/net7.0/ifElse
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/bin/Debug/net7.0/ifElse.deps.json
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/bin/Debug/net7.0/ifElse.runtimeconfig.json
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/bin/Debug/net7.0/ifElse.dll
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/bin/Debug/net7.0/ifElse.pdb
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/obj/Debug/net7.0/ifElse.csproj.AssemblyReference.cache
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/obj/Debug/net7.0/ifElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/obj/Debug/net7.0/ifElse.AssemblyInfoInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/obj/Debug/net7.0/ifElse.AssemblyInfo.cs
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/obj/Debug/net7.0/ifElse.csproj.CoreCompileInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/obj/Debug/net7.0/ifElse.dll
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/obj/Debug/net7.0/refint/ifElse.dll
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/obj/Debug/net7.0/ifElse.pdb
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/obj/Debug/net7.0/ifElse.genruntimeconfig.cache
+/Users/idil/Development/Projects/cSharpPratikler/ifElse/obj/Debug/net7.0/ref/ifElse.dll
