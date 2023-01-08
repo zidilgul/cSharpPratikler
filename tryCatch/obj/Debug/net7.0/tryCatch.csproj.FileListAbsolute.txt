@@ -1,0 +1,15 @@
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/bin/Debug/net7.0/tryCatch
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/bin/Debug/net7.0/tryCatch.deps.json
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/bin/Debug/net7.0/tryCatch.runtimeconfig.json
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/bin/Debug/net7.0/tryCatch.dll
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/bin/Debug/net7.0/tryCatch.pdb
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/obj/Debug/net7.0/tryCatch.csproj.AssemblyReference.cache
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/obj/Debug/net7.0/tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/obj/Debug/net7.0/tryCatch.AssemblyInfoInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/obj/Debug/net7.0/tryCatch.AssemblyInfo.cs
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/obj/Debug/net7.0/tryCatch.csproj.CoreCompileInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/obj/Debug/net7.0/tryCatch.dll
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/obj/Debug/net7.0/refint/tryCatch.dll
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/obj/Debug/net7.0/tryCatch.pdb
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/obj/Debug/net7.0/tryCatch.genruntimeconfig.cache
+/Users/idil/Development/Projects/cSharpPratikler/tryCatch/obj/Debug/net7.0/ref/tryCatch.dll
