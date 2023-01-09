@@ -1,0 +1,15 @@
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/bin/Debug/net7.0/whileAndForEach
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/bin/Debug/net7.0/whileAndForEach.deps.json
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/bin/Debug/net7.0/whileAndForEach.runtimeconfig.json
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/bin/Debug/net7.0/whileAndForEach.dll
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/bin/Debug/net7.0/whileAndForEach.pdb
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/obj/Debug/net7.0/whileAndForEach.csproj.AssemblyReference.cache
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/obj/Debug/net7.0/whileAndForEach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/obj/Debug/net7.0/whileAndForEach.AssemblyInfoInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/obj/Debug/net7.0/whileAndForEach.AssemblyInfo.cs
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/obj/Debug/net7.0/whileAndForEach.csproj.CoreCompileInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/obj/Debug/net7.0/whileAndForEach.dll
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/obj/Debug/net7.0/refint/whileAndForEach.dll
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/obj/Debug/net7.0/whileAndForEach.pdb
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/obj/Debug/net7.0/whileAndForEach.genruntimeconfig.cache
+/Users/idil/Development/Projects/cSharpPratikler/whileAndForEach/obj/Debug/net7.0/ref/whileAndForEach.dll
