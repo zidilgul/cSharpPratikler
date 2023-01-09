@@ -1,0 +1,15 @@
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/bin/Debug/net7.0/forLoop
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/bin/Debug/net7.0/forLoop.deps.json
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/bin/Debug/net7.0/forLoop.runtimeconfig.json
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/bin/Debug/net7.0/forLoop.dll
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/bin/Debug/net7.0/forLoop.pdb
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/obj/Debug/net7.0/forLoop.csproj.AssemblyReference.cache
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/obj/Debug/net7.0/forLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/obj/Debug/net7.0/forLoop.AssemblyInfoInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/obj/Debug/net7.0/forLoop.AssemblyInfo.cs
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/obj/Debug/net7.0/forLoop.csproj.CoreCompileInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/obj/Debug/net7.0/forLoop.dll
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/obj/Debug/net7.0/refint/forLoop.dll
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/obj/Debug/net7.0/forLoop.pdb
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/obj/Debug/net7.0/forLoop.genruntimeconfig.cache
+/Users/idil/Development/Projects/cSharpPratikler/forLoop/obj/Debug/net7.0/ref/forLoop.dll
