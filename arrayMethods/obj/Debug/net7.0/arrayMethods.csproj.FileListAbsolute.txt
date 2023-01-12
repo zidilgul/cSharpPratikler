@@ -1,0 +1,5 @@
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\arrayMethods\obj\Debug\net7.0\arrayMethods.csproj.AssemblyReference.cache
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\arrayMethods\obj\Debug\net7.0\arrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\arrayMethods\obj\Debug\net7.0\arrayMethods.AssemblyInfoInputs.cache
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\arrayMethods\obj\Debug\net7.0\arrayMethods.AssemblyInfo.cs
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\arrayMethods\obj\Debug\net7.0\arrayMethods.csproj.CoreCompileInputs.cache
