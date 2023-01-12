@@ -1,0 +1,16 @@
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\bin\Debug\net5.0\Odev1.exe
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\bin\Debug\net5.0\Odev1.deps.json
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\bin\Debug\net5.0\Odev1.runtimeconfig.json
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\bin\Debug\net5.0\Odev1.runtimeconfig.dev.json
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\bin\Debug\net5.0\Odev1.dll
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\bin\Debug\net5.0\Odev1.pdb
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\obj\Debug\net5.0\Odev1.csproj.AssemblyReference.cache
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\obj\Debug\net5.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\obj\Debug\net5.0\Odev1.AssemblyInfoInputs.cache
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\obj\Debug\net5.0\Odev1.AssemblyInfo.cs
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\obj\Debug\net5.0\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\obj\Debug\net5.0\Odev1.dll
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\obj\Debug\net5.0\refint\Odev1.dll
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\obj\Debug\net5.0\Odev1.pdb
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\obj\Debug\net5.0\Odev1.genruntimeconfig.cache
+C:\Users\zeynep.gul4\source\repos\Odev1\Odev1\obj\Debug\net5.0\ref\Odev1.dll

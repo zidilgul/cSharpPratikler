@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2dbksg3roibaZPiXC82zUfECnhQq5+Zq2iX1N67tzNnku9eHqyTrYidGZIew0qUcJjSWGXB2U+DW7eu5+cwnwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zeynep.gul4\\source\\repos\\Odev1\\Odev1\\Odev1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://aspbgallery.aile.gov.tr/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
