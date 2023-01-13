@@ -1,0 +1,16 @@
+C:\Users\zeynep.gul4\source\repos\metotlar\bin\Debug\net5.0\metotlar.exe
+C:\Users\zeynep.gul4\source\repos\metotlar\bin\Debug\net5.0\metotlar.deps.json
+C:\Users\zeynep.gul4\source\repos\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.json
+C:\Users\zeynep.gul4\source\repos\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.dev.json
+C:\Users\zeynep.gul4\source\repos\metotlar\bin\Debug\net5.0\metotlar.dll
+C:\Users\zeynep.gul4\source\repos\metotlar\bin\Debug\net5.0\metotlar.pdb
+C:\Users\zeynep.gul4\source\repos\metotlar\obj\Debug\net5.0\metotlar.csproj.AssemblyReference.cache
+C:\Users\zeynep.gul4\source\repos\metotlar\obj\Debug\net5.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep.gul4\source\repos\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\zeynep.gul4\source\repos\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfo.cs
+C:\Users\zeynep.gul4\source\repos\metotlar\obj\Debug\net5.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\zeynep.gul4\source\repos\metotlar\obj\Debug\net5.0\metotlar.dll
+C:\Users\zeynep.gul4\source\repos\metotlar\obj\Debug\net5.0\refint\metotlar.dll
+C:\Users\zeynep.gul4\source\repos\metotlar\obj\Debug\net5.0\metotlar.pdb
+C:\Users\zeynep.gul4\source\repos\metotlar\obj\Debug\net5.0\metotlar.genruntimeconfig.cache
+C:\Users\zeynep.gul4\source\repos\metotlar\obj\Debug\net5.0\ref\metotlar.dll
