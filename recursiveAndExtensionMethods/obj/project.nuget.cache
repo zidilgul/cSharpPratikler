@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6PsFg43CiPgrYQjs7P9sPvp9F4YashT+n+FGRSUdSFfSxLEeNhDC+E846Cm4YVqfgjpGqP1m0QCppR+8yg/ucw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zeynep.gul4\\Documents\\GitHub\\cSharpPratikler\\recursiveAndExtensionMethods\\recursiveAndExtensionMethods.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://aspbgallery.aile.gov.tr/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

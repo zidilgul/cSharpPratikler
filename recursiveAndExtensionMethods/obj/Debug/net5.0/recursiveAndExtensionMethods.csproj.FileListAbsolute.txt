@@ -1,0 +1,16 @@
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\bin\Debug\net5.0\recursiveAndExtensionMethods.exe
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\bin\Debug\net5.0\recursiveAndExtensionMethods.deps.json
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\bin\Debug\net5.0\recursiveAndExtensionMethods.runtimeconfig.json
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\bin\Debug\net5.0\recursiveAndExtensionMethods.runtimeconfig.dev.json
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\bin\Debug\net5.0\recursiveAndExtensionMethods.dll
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\bin\Debug\net5.0\recursiveAndExtensionMethods.pdb
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\obj\Debug\net5.0\recursiveAndExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\obj\Debug\net5.0\recursiveAndExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\obj\Debug\net5.0\recursiveAndExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\obj\Debug\net5.0\recursiveAndExtensionMethods.AssemblyInfo.cs
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\obj\Debug\net5.0\recursiveAndExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\obj\Debug\net5.0\recursiveAndExtensionMethods.dll
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\obj\Debug\net5.0\refint\recursiveAndExtensionMethods.dll
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\obj\Debug\net5.0\recursiveAndExtensionMethods.pdb
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\obj\Debug\net5.0\recursiveAndExtensionMethods.genruntimeconfig.cache
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\recursiveAndExtensionMethods\obj\Debug\net5.0\ref\recursiveAndExtensionMethods.dll
