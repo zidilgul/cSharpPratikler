@@ -1,0 +1,15 @@
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\obj\Debug\net7.0\stringMethodlar.csproj.AssemblyReference.cache
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\obj\Debug\net7.0\stringMethodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\obj\Debug\net7.0\stringMethodlar.AssemblyInfoInputs.cache
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\obj\Debug\net7.0\stringMethodlar.AssemblyInfo.cs
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\obj\Debug\net7.0\stringMethodlar.csproj.CoreCompileInputs.cache
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\bin\Debug\net7.0\stringMethodlar.exe
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\bin\Debug\net7.0\stringMethodlar.deps.json
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\bin\Debug\net7.0\stringMethodlar.runtimeconfig.json
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\bin\Debug\net7.0\stringMethodlar.dll
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\bin\Debug\net7.0\stringMethodlar.pdb
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\obj\Debug\net7.0\stringMethodlar.dll
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\obj\Debug\net7.0\refint\stringMethodlar.dll
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\obj\Debug\net7.0\stringMethodlar.pdb
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\obj\Debug\net7.0\stringMethodlar.genruntimeconfig.cache
+C:\Users\zeynep.gul4\Documents\GitHub\cSharpPratikler\stringMethodlar\obj\Debug\net7.0\ref\stringMethodlar.dll

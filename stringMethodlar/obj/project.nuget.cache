@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QoqUnv2TateqjkNptUFFzS/smxhLQ93HDdjAsotIhgFlKtvy1sr+HweuM6XW4ovO08eMT2mKPqWcWrQYtM2tZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zeynep.gul4\\Documents\\GitHub\\cSharpPratikler\\stringMethodlar\\stringMethodlar.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://aspbgallery.aile.gov.tr/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
