@@ -1,0 +1,15 @@
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/bin/Debug/net7.0/dateTimeAndMathMethods
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/bin/Debug/net7.0/dateTimeAndMathMethods.deps.json
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/bin/Debug/net7.0/dateTimeAndMathMethods.runtimeconfig.json
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/bin/Debug/net7.0/dateTimeAndMathMethods.dll
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/bin/Debug/net7.0/dateTimeAndMathMethods.pdb
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/obj/Debug/net7.0/dateTimeAndMathMethods.csproj.AssemblyReference.cache
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/obj/Debug/net7.0/dateTimeAndMathMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/obj/Debug/net7.0/dateTimeAndMathMethods.AssemblyInfoInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/obj/Debug/net7.0/dateTimeAndMathMethods.AssemblyInfo.cs
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/obj/Debug/net7.0/dateTimeAndMathMethods.csproj.CoreCompileInputs.cache
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/obj/Debug/net7.0/dateTimeAndMathMethods.dll
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/obj/Debug/net7.0/refint/dateTimeAndMathMethods.dll
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/obj/Debug/net7.0/dateTimeAndMathMethods.pdb
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/obj/Debug/net7.0/dateTimeAndMathMethods.genruntimeconfig.cache
+/Users/idil/Development/Projects/cSharpPratikler/dateTimeAndMathMethods/obj/Debug/net7.0/ref/dateTimeAndMathMethods.dll

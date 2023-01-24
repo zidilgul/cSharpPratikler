@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("arrays")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("dateTimeAndMathMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("arrays")]
-[assembly: System.Reflection.AssemblyTitleAttribute("arrays")]
+[assembly: System.Reflection.AssemblyProductAttribute("dateTimeAndMathMethods")]
+[assembly: System.Reflection.AssemblyTitleAttribute("dateTimeAndMathMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
